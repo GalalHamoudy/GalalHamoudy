@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+CTF Challenges Creator & Developer @0xL4ugh Team. 
+Certificates : ✨ CTI 101 & CAP & CNSP ✨
+- ⚡ Well-versed in reverse engineering of Windows PE, Linux ELF, and source code
+- ⚡ Proficient in Assembly, Python, PHP, JavaScript, and C++ programming languages.
+- ⚡ Extensive knowledge in steganography, and memory, audio, and image forensics.
+- ⚡ Experienced in using windows and network forensic tools for analysis purposes
+- ⚡ Skilled in collecting & analyzing data from TIPs, Dark Web, OSINT, and threat feeds.
+- ⚡ Uses threat intelligence to guide hunting efforts and uncover advanced threats.
+
 <!--
 **GalalHamoudy/GalalHamoudy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
