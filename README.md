@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Mohamed Galal
+# 👋 Hi there, I'm Galal Assaf
 
 <div align="center">
   
